@@ -1,4 +1,4 @@
-//JANHAVI ADMANE 24070521211
+//Name: Soumya Mehar PRN: 24070521200
 %{
 #include <stdio.h>
 #include <stdlib.h>
